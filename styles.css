@@ -37,8 +37,8 @@ h2 {
 }
 .Hero-resort {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
+    align-items: space-between;
     margin: 100px;
     margin-left: 400px;
     margin-right: 400px;
