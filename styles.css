@@ -94,7 +94,6 @@ flex-wrap: wrap;
 }
 .card_subtext {
     color: #1F2937;
+    text-align: center;
 }
-.card{
-    align-self: center;
-}
+
